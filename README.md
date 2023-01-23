@@ -1,1 +1,3 @@
-# Java-bootcamp2
+# Example Git Project
+
+This project is an example for the purposes of demonstrating hot to use Git / Github.
